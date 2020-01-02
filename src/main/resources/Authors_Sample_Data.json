@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Andrew G. McCabe",
+    "age": 30,
+    "bookIds": "1,4"
+  },
+  {
+    "id": 2,
+    "name": "Michelle Obama",
+    "age": 40,
+    "bookIds": "2,4"
+  },
+  {
+    "id": 3,
+    "name": "Clint Hill, Lisa McCubbin",
+    "age": 50,
+    "bookIds": "3,1"
+  },
+  {
+    "id": 4,
+    "name": "Delia Owens",
+    "age": 60,
+    "bookIds": "2,1"
+  },
+  {
+    "id": 5,
+    "name": "Sam Davidson",
+    "age": 70,
+    "bookIds": "4,3"
+  },
+  {
+    "id": 6,
+    "name": "Michel Barry",
+    "age": 80,
+    "bookIds": "3,2"
+  }
+]

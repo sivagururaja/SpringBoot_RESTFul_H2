@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "The Threat: How the FBI Protects America in the Age of Terror and Trump",
+    "type": "Hardcover",
+    "price": 17.99,
+    "numOfPages": 288,
+    "language": "English",
+    "isbn13": "978-1250207579",
+    "authorIds": "1,3"
+  },
+  {
+    "id": 2,
+    "title": "Becoming",
+    "type": "Hardcover",
+    "price": 17.88,
+    "numOfPages": 448,
+    "language": "English",
+    "isbn13": "978-1524763138",
+    "authorIds": "2,4"
+  },
+  {
+    "id": 3,
+    "title": "Five Presidents: My Extraordinary Journey with Eisenhower, Kennedy, Johnson, Nixon, and Ford",
+    "type": "Paperback",
+    "price": 11.09,
+    "numOfPages": 464,
+    "language": "English",
+    "isbn13": "978-1476794143",
+    "authorIds": "3,5"
+  },
+  {
+    "id": 4,
+    "title": "Where the Crawdads Sing",
+    "type": "Hardcover",
+    "price": 16.2,
+    "numOfPages": 384,
+    "language": "English",
+    "isbn13": "978-0735219090",
+    "authorIds": "4,6"
+  }
+]
